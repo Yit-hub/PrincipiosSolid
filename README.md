@@ -24,7 +24,7 @@ las correspondientes correciones.
 * Clase Ostrich
 * Clase Bird 
 
-### Principios de inversión de dependencias:ç
+### Principios de inversión de dependencias:
 
 * Clase Interruptor
 * Clase Bombilla
