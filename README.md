@@ -11,7 +11,7 @@ las correspondientes correciones.
 * Clase RobotWorker
 * Clase HumanWorker
 
-### Principio Open/Close:
+### Principio Open/Closed:
 
 * Clase Shape
 
